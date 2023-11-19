@@ -1,14 +1,14 @@
 //
 //  AppDelegate.swift
-//  HS-3.4-DY
+//  HW-3.2-DY
 //
-//  Created by Denis Yarets on 19/11/2023.
+//  Created by Denis Yarets on 11/11/2023.
 //
 
 import UIKit
 
 @main
-class AppDelegate: UIResponder, UIApplicationDelegate {
+final class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
 
